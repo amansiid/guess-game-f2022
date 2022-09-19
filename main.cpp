@@ -5,6 +5,7 @@
 using std::cout;
 using std::cin;
 using std::endl;
+using std::cerr;
 
 int main(){
     srand(time(0));
